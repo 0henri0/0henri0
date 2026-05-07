@@ -69,13 +69,13 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/0henri0?label=Followers&style=for-the-badge&color=2a3f5f&labelColor=1a1b27" />
-  <img src="https://img.shields.io/github/stars/0henri0?label=Stars&style=for-the-badge&color=d4af37&labelColor=1a1b27" />
-  <img src="https://img.shields.io/badge/Public_Repos-78-2ea44f?style=for-the-badge&labelColor=1a1b27" />
+  <img src="https://img.shields.io/github/followers/0henri0?label=Followers&style=for-the-badge&logo=github&logoColor=white" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/0henri0?label=Stars&style=for-the-badge&logo=github&logoColor=white" alt="Stars" />
+  <img src="https://img.shields.io/badge/Public_Repos-78-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Public Repos" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=0henri0&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=0henri0&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" height="165" alt="GitHub Streak" />
 </p>
 
 <p align="center">
