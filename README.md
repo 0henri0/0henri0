@@ -69,8 +69,17 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0henri0&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0henri0&layout=compact&theme=tokyonight&hide_border=true&hide=html,css&langs_count=8" height="165" />
+  <img src="https://img.shields.io/github/followers/0henri0?label=Followers&style=for-the-badge&color=2a3f5f&labelColor=1a1b27" />
+  <img src="https://img.shields.io/github/stars/0henri0?label=Stars&style=for-the-badge&color=d4af37&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/Public_Repos-78-2ea44f?style=for-the-badge&labelColor=1a1b27" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=0henri0&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0henri0&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
